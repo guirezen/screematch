@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Avatar",
+    "AnoLancamento": 2009,
+    "InclusoNoPlano": false,
+    "SomaAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "Duracao": 162
+  },
+  {
+    "Nome": "Dogville",
+    "AnoLancamento": 2003,
+    "InclusoNoPlano": false,
+    "SomaAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "Duracao": 178
+  },
+  {
+    "Nome": "Top Gun: Maverick",
+    "AnoLancamento": 2022,
+    "InclusoNoPlano": false,
+    "SomaAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "Duracao": 130
+  }
+]
